@@ -47,3 +47,7 @@ There are a number of limitations, some I mentioned previously, however, I'll go
 I've covered how to configure local transforms like this in the past, and you can find how to install these in my latest blog post [AlienVault OTX Maltego Transforms](https://nullsecure.org/alienvault-otx-maltego-transforms/). Basically it boils down to installing the .mtz file along with updating the Python interpreter you use, along with where you saved the transforms on your machine. Find all the required files [here](
 
 If you have any questions about this, or bugs (which I'm sure there will be), please create an issue on the GitHub page, or contact me through email or Twitter.
+
+### To-do
+
+There's plenty of code to clean-up and fix in this, as well as adding in threading to make the calls quicker. If anyone wants to get some PR's in for Hacktober, please go for it!
